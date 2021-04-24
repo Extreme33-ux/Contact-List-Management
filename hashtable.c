@@ -121,7 +121,6 @@ void apaga_link(Contacto * cont){
 	if (cont == NULL){
 		return;
 		}
-https://discord.gg/Wpn5AC
 	else{
 
 		Link *tmp, *prev;
