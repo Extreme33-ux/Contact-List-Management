@@ -133,7 +133,7 @@ void todos_contactos(Lista * l){
 }
 
 /* Function that counts the number of occurrences of a given domain in the list. */
-void conta_ocorrencias_dominio(Lista* l, const https://discord.gg/Wpn5ACchar* dominio){
+void conta_ocorrencias_dominio(Lista* l, const char* dominio){
 
 	int x = 0;
 	Contacto * n;
